@@ -1,0 +1,28 @@
+{
+  "name": "verbose-utterance",
+  "version": "1.0.0",
+  "description": "Interprete/compile *.utter files for creating a verbose library of utterances",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Truemedia/verbose-utterance.git"
+  },
+  "keywords": [
+    "verbose",
+    "utterance",
+    "nlp",
+    "language",
+    "sentence",
+    "file",
+    "format"
+  ],
+  "author": "Wade Penistone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Truemedia/verbose-utterance/issues"
+  },
+  "homepage": "https://github.com/Truemedia/verbose-utterance#readme"
+}
