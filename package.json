@@ -4,7 +4,7 @@
   "description": "Interprete/compile *.utter files for creating a verbose library of utterances",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/index.js"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,11 @@
   "bugs": {
     "url": "https://github.com/Truemedia/verbose-utterance/issues"
   },
-  "homepage": "https://github.com/Truemedia/verbose-utterance#readme"
+  "homepage": "https://github.com/Truemedia/verbose-utterance#readme",
+  "dependencies": {
+    "intent-utterance-expander": "0.0.9"
+  },
+  "devDependencies": {
+    "signale": "^1.3.0"
+  }
 }
