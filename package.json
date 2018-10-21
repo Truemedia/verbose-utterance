@@ -26,7 +26,9 @@
   },
   "homepage": "https://github.com/Truemedia/verbose-utterance#readme",
   "dependencies": {
-    "intent-utterance-expander": "0.0.9"
+    "intent-utterance-expander": "0.0.9",
+    "lemme-lex": "^0.1.1",
+    "vegito": "^1.1.0"
   },
   "devDependencies": {
     "signale": "^1.3.0"
