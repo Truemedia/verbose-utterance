@@ -1,6 +1,6 @@
 {
   "name": "verbose-utterance",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Interprete/compile *.utter files for creating a verbose library of utterances",
   "main": "src/index.js",
   "scripts": {
